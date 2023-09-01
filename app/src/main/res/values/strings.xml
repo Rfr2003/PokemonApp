@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="ArrowBack">Back</string>
+    <string name="list_pokemon_fr">Vos pokemons</string>
+    <string name="settings_fr">Paramètres</string>
+    <string name="change_name_fr">Changez votre pseudo</string>
+    <string name="confirm_fr">Confirmer</string>
+    <string name="combat_list_fr">Liste de combat</string>
+    <string name="fight_fr">Combat</string>
+    <string name="choose_pokemon_fr">Choisir ce pokemon</string>
+    <string name="win_rewards_fr">%s a gagné %d niveaux. Vous avez reçu %d pierres.</string>
+    <string name="reset_ennemy_list">Reset</string>
+</resources>
